@@ -23,7 +23,7 @@
     <ClInclude Include="text.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="stack .h">
+    <ClInclude Include="stack.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
